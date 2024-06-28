@@ -1,0 +1,21 @@
+{
+  "name": "build-and-deploy-ecommerce-website-main",
+  "version": "1.0.0",
+  "description": "[<img alt=\"Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript\" width=\"100%\" src=\"https://github.com/tech2etc/Youtube-Tutorials/blob/main/Build%20and%20Deploy%20Ecommerce%20Website%20With%20HTML%20CSS%20JavaScript%20Full%20Responsive%20Ecommerce%20Course%20FREE.PNG?raw=true\" />](https://youtu.be/P8YuWEkTeuE/)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.10.1",
+    "nodemon": "^3.1.4",
+    "sql": "^0.78.0"
+  }
+}
